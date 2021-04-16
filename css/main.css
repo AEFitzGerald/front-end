@@ -573,7 +573,7 @@ aside button {
 	/*GENERAL STYLES*/
 	
 	.content-wrapper {
-		max-width: 1000px;
+		max-width: 1200px;
 	}
 	
 	
@@ -626,12 +626,12 @@ aside button {
 	}
 	
 	.projects .project-container {
-		width: 48%;
+		width: 45%;
 	}
 	
-    .projects .content-wrapper {
-	   display: flex;
-       justify-content: space-between;
+        .projects .content-wrapper {
+	        display: flex;
+                justify-content: space-between;
 	}
 	
 }
