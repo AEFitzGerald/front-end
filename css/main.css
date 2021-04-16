@@ -621,18 +621,21 @@ aside button {
 	
 	/*PROJECTS AREA DESKTOP*/
 	
-	.icon-container {
-		margin: 50px 0;
-	}
-	
-	.projects .project-container {
-		width: 45%;
-	}
 	
         .projects .content-wrapper {
 	        display: flex;
                 justify-content: space-between;
 	}
+	
+	.icon-container {
+		margin: 50px 0;
+		justify-content: space-between;
+	}
+	
+	.projects .project-container {
+		width: 40%;
+	}
+	
 	
 }
 
